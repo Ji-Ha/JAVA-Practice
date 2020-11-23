@@ -12,6 +12,10 @@ public class object01 {
         c1.sum();
         c1.avg();
 
+        c1.sum();
+        Calculator.base = 10;
+        c1.sum();
+
         Calculator c2 = new Calculator();
         c2.setOprands(20, 40);
         c2.sum();
