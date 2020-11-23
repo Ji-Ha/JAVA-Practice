@@ -1,4 +1,4 @@
-package datatype;
+package basic_level;
 
 public class AllVariable {
     public static void main(String[] args) {

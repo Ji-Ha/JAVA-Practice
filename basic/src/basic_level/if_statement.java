@@ -1,4 +1,4 @@
-package statements;
+package basic_level;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package datatype;
+package basic_level;
 
 public class CharString {
     public static void main(String[] args) {

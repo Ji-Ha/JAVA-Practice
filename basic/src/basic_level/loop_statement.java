@@ -1,4 +1,4 @@
-package statements;
+package basic_level;
 
 public class loop_statement {
     public static void main(String[] args) {
